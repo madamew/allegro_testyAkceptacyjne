@@ -87,7 +87,7 @@ Testami zostały pokryte 3 metody:
 
 Aby uruchomić testy należy w głównym katalogu uruchomić polecenie 
         
-        mvn clean install
+        mvn clean install lub mvn clean test
 
 Efektem polecenia będzie:
 
